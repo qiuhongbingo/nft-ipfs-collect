@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-image-downloader": "^1.0.7",
+    "superagent": "^7.1.3"
+  }
+}
